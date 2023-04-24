@@ -18,10 +18,13 @@
 ![JCL](https://img.shields.io/badge/JCL-8A36AF?style=for-the-badge&logo=ibm&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
-# 📊 Contributions
+# 📦 Projects
 
 [![ENHANCE.PET](https://img.shields.io/badge/ENHANCE.PET-Project_Lead-FF69B4?style=for-the-badge)](https://enhance.pet)
 [![MOOSE](https://img.shields.io/badge/MOOSE-Lead_Developer-FFD700?style=for-the-badge)](https://github.com/QIMP-Team/MOOSE)
 [![FALCON](https://img.shields.io/badge/FALCON-Lead_Developer-32CD32?style=for-the-badge)](https://github.com/QIMP-Team/FALCON)
 
+
+# 📊 GitHub contributions
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LalithShiyam&show_icons=true&theme=radical)

@@ -1,4 +1,4 @@
-# Hi, I'm Lalith! 🐻
+# Hi, I'm Lalith (aka) nutellaBear 🐻!
 
 
 :man_scientist: Postdoc at the QIMP-Team, Medical University of Vienna | :heart: Medical Image Analysis | :chart_with_upwards_trend: Data Science & AI Enthusiast

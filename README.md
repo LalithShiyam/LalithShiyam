@@ -7,7 +7,7 @@
 
 :rocket: Lead developer of MOOSE, FALCON, and many more tools accelerating total-body research under the ENHANCE.PET constellation
 
-# Programming languages 
+# 💻 Programming languages 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -17,4 +17,11 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![JCL](https://img.shields.io/badge/JCL-8A36AF?style=for-the-badge&logo=ibm&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+# 📊 Contributions
+
+[![ENHANCE.PET](https://img.shields.io/badge/ENHANCE.PET-Project_Lead-FF69B4?style=for-the-badge)](https://enhance.pet)
+[![MOOSE](https://img.shields.io/badge/MOOSE-Lead_Developer-FFD700?style=for-the-badge)](https://github.com/QIMP-Team/MOOSE)
+[![FALCON](https://img.shields.io/badge/FALCON-Lead_Developer-32CD32?style=for-the-badge)](https://github.com/QIMP-Team/FALCON)
 

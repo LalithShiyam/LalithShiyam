@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi, I'm Lalith! 🐻
 
-<!--
-**LalithShiyam/LalithShiyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+:man_scientist: Postdoc at the QIMP-Team, Medical University of Vienna | :heart: Medical Image Analysis | :chart_with_upwards_trend: Data Science & AI Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:telescope: Researching Total-Body PET & Inter-Organ Communication | :computer: Coding & Building Cool Tools | :zap: Leading the ENHANCE.PET Community development
+
+:rocket: Creator of MOOSE, FALCON, and many more tools accelerating total-body research under the ENHANCE.PET constellation
+
+# Programming languages 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![COBOL](https://img.shields.io/badge/COBOL-000E67?style=for-the-badge&logo=cobol&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![JCL](https://img.shields.io/badge/JCL-8A36AF?style=for-the-badge&logo=ibm&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+

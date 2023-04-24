@@ -7,6 +7,7 @@
 
 :rocket: Lead developer of MOOSE, FALCON, and many more tools accelerating total-body research under the ENHANCE.PET constellation
 
+
 # 💻 Programming languages 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,3 +29,14 @@
 # 📊 GitHub contributions
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LalithShiyam&show_icons=true&theme=radical)
+
+# 🌟 Fun Facts
+
+1. 🎓 My educational journey is quite the rollercoaster: I started with a bachelor's in Biotechnology, then switched gears with a master's in Biomedical Engineering, and finally got a PhD in Medical Physics. I guess you could say I'm a bit of an academic thrill-seeker!
+2. 🖥️ I once worked as a mainframe programmer, which is where I accidentally tripped, fell, and landed head-over-heels in love with coding.
+3. 🍽️ I'm a foodie who loves cooking almost as much as I love learning. My kitchen experiments can sometimes rival my scientific ones!
+4. 🐻 "nutellabear" is my affectionate nickname from colleagues, thanks to my insatiable appetite for Nutella. Who can resist that chocolatey-hazelnut goodness?
+5. 🏸 When I'm not busy collecting degrees or coding, you can find me on the badminton or cricket court, serving up some friendly competition.
+6. 🌍 I've worked in Germany, the Netherlands, and Austria, embracing my love for international adventures both inside and outside the lab.
+
+

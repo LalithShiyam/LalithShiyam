@@ -5,7 +5,7 @@
 
 :telescope: Researching Total-Body PET & Inter-Organ Communication | :computer: Coding & Building Cool Tools | :zap: Leading the ENHANCE.PET Community development
 
-:rocket: Creator of MOOSE, FALCON, and many more tools accelerating total-body research under the ENHANCE.PET constellation
+:rocket: Lead developer of MOOSE, FALCON, and many more tools accelerating total-body research under the ENHANCE.PET constellation
 
 # Programming languages 
 
@@ -17,5 +17,4 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![JCL](https://img.shields.io/badge/JCL-8A36AF?style=for-the-badge&logo=ibm&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
 

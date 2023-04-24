@@ -7,6 +7,10 @@
 
 :rocket: Lead developer of MOOSE, FALCON, and many more tools accelerating total-body research under the ENHANCE.PET constellation
 
+# 💼 Organisation
+
+[![QIMP-Team](https://img.shields.io/badge/QIMP_Team-PostDoc-blue?style=for-the-badge&logo=QIMP-Team)](https://github.com/QIMP-Team)
+
 
 # 💻 Programming languages 
 

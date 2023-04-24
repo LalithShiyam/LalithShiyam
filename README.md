@@ -39,4 +39,8 @@
 5. 🏸 When I'm not busy collecting degrees or coding, you can find me on the badminton or cricket court, serving up some friendly competition.
 6. 🌍 I've worked in Germany, the Netherlands, and Austria, embracing my love for international adventures both inside and outside the lab.
 
+# 💬 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalith-kumar-shiyam-sundar-phd-3a2aaba0)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Lalith-blue?style=for-the-badge&logo=google-scholar)](https://scholar.google.com/citations?user=L6iMPN4AAAAJ&hl=en&authuser=1)
 

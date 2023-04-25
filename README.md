@@ -44,7 +44,7 @@
 3. 🍽️ I'm a foodie who loves cooking almost as much as I love learning. My kitchen experiments can sometimes rival my scientific ones!
 4. 🐻 "nutellabear" is my affectionate nickname from colleagues, thanks to my insatiable appetite for Nutella and my skin color. Who can resist that chocolatey-hazelnut goodness?
 5. 🏸 When I'm not busy collecting degrees or coding, you can find me on the badminton or cricket court, serving up some friendly competition.
-6. 🌍 I've worked in Germany, the Netherlands, and Austria, embracing my love for international adventures both inside and outside the lab.
+6. 🌍 I am from India. I've worked in Germany, the Netherlands, and Austria, embracing my love for international adventures both inside and outside the lab.
 
 # 💬 Reach Me
 

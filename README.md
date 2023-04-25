@@ -30,10 +30,6 @@
 [![FALCON](https://img.shields.io/badge/FALCON-Lead_Developer-32CD32?style=for-the-badge)](https://github.com/QIMP-Team/FALCON)
 
 
-# 📊 GitHub contributions
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LalithShiyam&show_icons=true&theme=radical)
-
 # 🌟 Fun Facts
 
 1. 🎓 My educational journey is quite the rollercoaster: I started with a bachelor's in Biotechnology, then switched gears with a master's in Biomedical Engineering, and finally got a PhD in Medical Physics. I guess you could say I'm a bit of an academic thrill-seeker!

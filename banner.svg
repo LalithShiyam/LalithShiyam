@@ -1,0 +1,11 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 720" preserveAspectRatio="xMidYMid meet">
+  <style>
+    .light-mode { display: none; }
+    @media (prefers-color-scheme: light) {
+      .dark-mode { display: none; }
+      .light-mode { display: inline; }
+    }
+  </style>
+  <image class="dark-mode" width="100%" height="100%" xlink:href="https://raw.githubusercontent.com/LalithShiyam/LalithShiyam/main/Banner-Dark-LK.gif" />
+  <image class="light-mode" width="100%" height="100%" xlink:href="https://raw.githubusercontent.com/LalithShiyam/LalithShiyam/main/Banner-Light-LK.gif" />
+</svg>

@@ -1,6 +1,12 @@
-# Hi, I'm Lalith (aka) nutellaBear 🐻!
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LalithShiyam/LalithShiyam/blob/main/Banner-Dark-LK.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/LalithShiyam/LalithShiyam/blob/main/Banner-Light-LK.gif">
+  <img alt="Shows an illustrated MOOSE story board adopted to different themes" src="https://github.com/LalithShiyam/LalithShiyam/blob/main/Banner-Light-LK.gif">
+</picture>
+</div>
 
-![Banner](https://raw.githubusercontent.com/LalithShiyam/LalithShiyam/main/banner.svg)
+# Hi, I'm Lalith (aka) nutellaBear 🐻!
 
 :man_scientist: Postdoc at the QIMP-Team, Medical University of Vienna | :heart: Medical Image Analysis | :chart_with_upwards_trend: Data Science & AI Enthusiast
 

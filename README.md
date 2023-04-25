@@ -1,5 +1,6 @@
 # Hi, I'm Lalith (aka) nutellaBear 🐻!
 
+![Banner](https://raw.githubusercontent.com/LalithShiyam/LalithShiyam/main/banner.svg)
 
 :man_scientist: Postdoc at the QIMP-Team, Medical University of Vienna | :heart: Medical Image Analysis | :chart_with_upwards_trend: Data Science & AI Enthusiast
 

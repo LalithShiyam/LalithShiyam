@@ -35,7 +35,7 @@
 [![ENHANCE.PET](https://img.shields.io/badge/ENHANCE.PET-Project_Lead-FF69B4?style=for-the-badge)](https://enhance.pet)
 [![MOOSE](https://img.shields.io/badge/MOOSE-Lead_Developer-FFD700?style=for-the-badge)](https://github.com/QIMP-Team/MOOSE)
 [![FALCON](https://img.shields.io/badge/FALCON-Lead_Developer-32CD32?style=for-the-badge)](https://github.com/QIMP-Team/FALCON)
-[![NIFTI2DICOM](https://img.shields.io/badge/NIFTI2DICOM-Lead_Developer-FFD700?style=for-the-badge)](https://github.com/LalithShiyam/nifti2dicom)
+[![NIFTI2DICOM](https://img.shields.io/badge/NIFTI2DICOM-Lead_Developer-8A36AF?style=for-the-badge)](https://github.com/LalithShiyam/nifti2dicom)
 
 
 

@@ -37,7 +37,8 @@
 [![FALCON](https://img.shields.io/badge/FALCON-Lead_Developer-32CD32?style=for-the-badge)](https://github.com/QIMP-Team/FALCON)
 [![NIFTI2DICOM](https://img.shields.io/badge/NIFTI2DICOM-Lead_Developer-8A36AF?style=for-the-badge)](https://github.com/LalithShiyam/nifti2dicom)
 
-
+[![Lalith's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=LalithShiyam&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/LalithShiyam/github-readme-stats#gh-dark-mode-only)
+[![Lalith's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=LalithShiyam&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/LalithShiyam/github-readme-stats#gh-light-mode-only)
 
 # 🌟 Fun Facts
 

@@ -52,3 +52,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalith-kumar-shiyam-sundar-phd-3a2aaba0)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Lalith-blue?style=for-the-badge&logo=google-scholar)](https://scholar.google.com/citations?user=L6iMPN4AAAAJ&hl=en&authuser=1)
 
+![Laliths's GitHub stats](https://github-readme-stats.vercel.app/api?username=LalithShiyam&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=ambient_gradient&icons=true&rank_icon=github)

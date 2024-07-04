@@ -36,6 +36,7 @@
 [![MOOSE](https://img.shields.io/badge/MOOSE-Lead_Developer-FFD700?style=for-the-badge)](https://github.com/ENHANCE-PET/MOOSE)
 [![FALCON](https://img.shields.io/badge/FALCON-Lead_Developer-32CD32?style=for-the-badge)](https://github.com/ENHANCE-PET/FALCON)
 [![NIFTI2DICOM](https://img.shields.io/badge/NIFTI2DICOM-Lead_Developer-8A36AF?style=for-the-badge)](https://github.com/ENHANCE-PET/nifti2dicom)
+[![PUMA](https://img.shields.io/badge/PUMA-Lead_Developer-000E67?style=for-the-badge)](https://github.com/ENHANCE-PET/PUMA)
 
 
 # 🌟 Fun Facts

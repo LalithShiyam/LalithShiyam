@@ -16,7 +16,7 @@
 
 # 💼 Organisation
 
-[![DIGIT-X](https://img.shields.io/badge/DIGIT--X-W2%20PROF-green?style=for-the-badge&logo=data:image/svg+xml;base64,)](https://github.com/QIMP-Team)
+[![DIGIT-X](https://img.shields.io/badge/DIGIT--X--LMU-W2%20PROF-green?style=for-the-badge&logo=https://raw.githubusercontent.com/LalithShiyam/LalithShiyam/main/DIGIT-X-LOGO.svg)](https://github.com/DIGIT-X-Lab)
 [![QIMP-Team](https://img.shields.io/badge/QIMP_Team-PostDoc-blue?style=for-the-badge&logo=QIMP-Team)](https://github.com/QIMP-Team)
 
 
